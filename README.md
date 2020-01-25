@@ -1,6 +1,8 @@
 # TrashPanda
 
 My girlfriend keeps getting mad at me for forgetting to take out the trash on trash day. So I'm going to make a Node / Twilio script to berate me every Wednesday morning.
+![TrashPanda hard at work](https://i.imgur.com/QTQG9AX.png)
+
 
 ### Install
 
@@ -32,6 +34,7 @@ node trash.js wed
 
 `mon` `tue` `wed` `thu` `fri` `sat` `sun`
 
-### TODO
+### TODOS
 
-Refactor the command line arguments and add a time of day flag. I.e. `node trash.js --trash-day=wed --time-am=7`
+1. Refactor the command line arguments and add a time of day flag. I.e. `node trash.js --trash-day=wed --time-am=7`
+2. Add custom message content flag. I.e. `--message='You're just like your father'`
