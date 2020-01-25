@@ -24,7 +24,7 @@ npm install
 
 Run `node trash.js [day]`
 
-The `[day]` argument should be the first three letters of the day you want to the scheduler to run on.
+The `[day]` argument should be the first three letters of the day you want the scheduler to run on.
 
 #### Example scheduling the text to send on Wednesdays.
 
