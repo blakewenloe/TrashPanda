@@ -23,8 +23,9 @@ Run the script with the first argument being the first three letters of the day 
 
 #### Example scheduling the text to send on Wednesdays.
 
-```
+```javascript
 node trash.js wed
+// Scheduling message to send on: wed at 8:00am
 ```
 
 #### Options
