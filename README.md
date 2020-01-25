@@ -21,7 +21,7 @@ npm install
 
 ### Run the Script
 
-Run the script with the first argument being the first three letters of the day of the week you want to schedule the text to send.
+Run `node trash.js [day]`. Replace `[day]` with the first three letters of the day of the week you want to scheduler to text you.
 
 #### Example scheduling the text to send on Wednesdays.
 
