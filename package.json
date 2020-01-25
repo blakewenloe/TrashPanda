@@ -1,0 +1,31 @@
+{
+  "name": "trash-panda",
+  "version": "1.0.0",
+  "description": "My girlfriend keeps getting mad at me for forgetting to take out the trash on Wednesdays. So I'm going to make a Node/Twiliio script to berate me on Wednesday mornings.",
+  "main": "trash.js",
+  "scripts": {
+    "test": "node trash.js wed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakewenloe/TrashPanda.git"
+  },
+  "keywords": [
+    "Twilio",
+    "Node",
+    "Reminder",
+    "cron job",
+    "scheduler"
+  ],
+  "author": "Blake Enloe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakewenloe/TrashPanda/issues"
+  },
+  "homepage": "https://github.com/blakewenloe/TrashPanda#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "twilio": "^3.39.3"
+  }
+}
