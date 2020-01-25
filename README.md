@@ -12,7 +12,7 @@ npm install
 
 1. Get your Account SID & Auth Token from www.twilio.com/console.
 2. Get your Twilio number from www.twilio.com/console/phone-numbers/incoming.
-3. Open `.env.example` in the root of the project.
+3. Open `.example.env` in the root of the project.
 4. Set the `ACCOUNT_SID` to your Account SID.
 5. Set the `AUTH_TOKEN` to your Auth Token.
 6. Save and rename the file `.env`.
