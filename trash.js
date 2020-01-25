@@ -7,7 +7,7 @@ const { ACCOUNT_SID, AUTH_TOKEN, TO_NUMBER, FROM_NUMBER } = process.env;
 
 const client = require("twilio")(ACCOUNT_SID, AUTH_TOKEN);
 
-// Define the trash day
+// Get the trash day from the arguments
 const trashDay = process.argv[2];
 
 //Send text to user's phone
