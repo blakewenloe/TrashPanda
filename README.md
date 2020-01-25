@@ -1,6 +1,6 @@
 # TrashPanda
 
-My girlfriend keeps getting mad at me for forgetting to take out the trash on trash day. So I'm going to make a Node/Twiliio script to berate me every Wednesday morning.
+My girlfriend keeps getting mad at me for forgetting to take out the trash on trash day. So I'm going to make a Node / Twilio script to berate me every Wednesday morning.
 
 ### Install
 
