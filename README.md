@@ -40,4 +40,4 @@ node trash.js wed
 ### TODOS
 
 1. Refactor the command line arguments and add a time of day flag. I.e. `node trash.js --trash-day=wed --time-am=7`
-2. Add custom message content flag. I.e. `--message='You're just like your father'`
+2. Add custom message content flag. I.e. `--message="You're just like your father"`
